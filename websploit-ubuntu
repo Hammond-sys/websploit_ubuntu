@@ -1,0 +1,15 @@
+#!bin/bash
+apt install python -y
+apt install python2 -y
+ap install python2.7 -y 
+apt installl nmap -y
+apt install tcpdump -y 
+apt install figlet -y 
+apt install toilet -y
+apt install netdiscover
+pip2 install scapy
+
+git clone https://github.com/websploit/websploit
+ls
+cd websploit
+python2 websploit
